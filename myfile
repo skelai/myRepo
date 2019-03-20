@@ -3,6 +3,7 @@ COme content for this file.
 press 'i' to add some text.
 press 'echap' when done.
 type ':wq' to save and quite.
-
 Always pull the project before you modify anything.
+
+Don't forget to add, then commit before you push.
 
