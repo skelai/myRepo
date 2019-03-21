@@ -1,0 +1,171 @@
+[33mcommit 9c125149efc052978a3e262a6f3548824e8e85a6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: eed3ee7 55abdc6
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Thu Mar 21 10:08:51 2019 +0100
+
+    Merge remote-tracking branch 'origin/brancheIoana'
+
+[33mcommit eed3ee7726b004b8cf00537d97f8d2f61e2c3896[m
+Merge: bfb344c 9a758d6
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Thu Mar 21 10:04:40 2019 +0100
+
+    Merge remote-tracking branch 'origin/Mouh'
+
+[33mcommit 55abdc632be5f38382dbd9d44da3eea545191afb[m[33m ([m[1;31morigin/brancheIoana[m[33m)[m
+Author: ioana <asi_ioana@yahoo.com>
+Date:   Thu Mar 21 10:01:56 2019 +0100
+
+    mon premier commit jeudi
+
+[33mcommit bfb344cb5e4c4db8cb4ed8752df84ebbaee11476[m
+Merge: 0d09a1c 323bdf2
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Thu Mar 21 09:59:09 2019 +0100
+
+    Merge branch 'yacine' of https://github.com/skelai/myRepo
+
+[33mcommit 9a758d62415b0b8a72956318967ee6cdff8666c6[m[33m ([m[1;31morigin/Mouh[m[33m)[m
+Author: Mouhssine <48760065+Mouhssinebel@users.noreply.github.com>
+Date:   Thu Mar 21 09:58:52 2019 +0100
+
+    ce que mouh a mit
+
+[33mcommit 0d09a1c96c4df2bab43bcb49583ee48c10803b09[m[33m ([m[1;31morigin/nouvelle-branche[m[33m, [m[1;32mnouvelle-branche[m[33m)[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Thu Mar 21 09:54:14 2019 +0100
+
+    nouvelle-branche
+
+[33mcommit 323bdf2d153baf4005a38f153ac206a1d4f94276[m[33m ([m[1;31morigin/yacine[m[33m)[m
+Merge: c8efe7c 72e1611
+Author: Yacine07 <yacine.mrini@hotmail.com>
+Date:   Thu Mar 21 09:50:09 2019 +0100
+
+    Merge branch 'master' of github.com:skelai/myRepo into yacine
+
+[33mcommit c8efe7c1f0ce2fe2918e84e89e811729c3482c73[m
+Author: Yacine07 <yacine.mrini@hotmail.com>
+Date:   Wed Mar 20 15:59:10 2019 +0100
+
+    Ajout d'un fichier java
+
+[33mcommit 72e161141411880d0f381991bca2115a54a0feaa[m
+Merge: 1a40a28 50c4d87
+Author: ioana <asi_ioana@yahoo.com>
+Date:   Wed Mar 20 15:53:29 2019 +0100
+
+    gggggggggggggggggggg
+
+[33mcommit 1a40a28555fbab92ca541ee67ccfdae171767020[m
+Author: ioana <asi_ioana@yahoo.com>
+Date:   Wed Mar 20 15:46:06 2019 +0100
+
+    Mon commit
+
+[33mcommit 50c4d87124adc15a34081a2f07afd6ab61f15f97[m
+Merge: f987b6d f06c5da
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 15:31:16 2019 +0100
+
+    Merge branch 'master' of https://github.com/skelai/myRepo
+
+[33mcommit f987b6d100cc2e79f86efcbf5de99ef6c3a912e5[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 15:30:36 2019 +0100
+
+    well well well
+
+[33mcommit f06c5da2c14928a8e0f4391b3a3ec437a778b029[m
+Merge: 1ec88a3 7051ed8
+Author: Mouhssine <48760065+Mouhssinebel@users.noreply.github.com>
+Date:   Wed Mar 20 15:27:54 2019 +0100
+
+    Merge branch 'master' of https://github.com/skelai/myRepo
+
+[33mcommit 1ec88a3d4e99d336e618435e1304e3e8c9470899[m
+Author: Mouhssine <48760065+Mouhssinebel@users.noreply.github.com>
+Date:   Wed Mar 20 15:26:58 2019 +0100
+
+    hello
+
+[33mcommit 7051ed8dfe67bc1b87fa606c737e0dbca01933fc[m
+Author: Yacine07 <yacine.mrini@hotmail.com>
+Date:   Wed Mar 20 15:21:56 2019 +0100
+
+    Ajout du fichier bonjour
+
+[33mcommit f13ba4b1179a935e3ec505b9ae5f9bdd84e4f7b0[m
+Author: skelai <48760151+skelai@users.noreply.github.com>
+Date:   Wed Mar 20 14:54:23 2019 +0100
+
+    Update myfile
+
+[33mcommit 9c72c3c7d9ee8cd4d0e1dc8b2cc3272689d72e16[m
+Merge: 5d56950 9bbec70
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 14:53:05 2019 +0100
+
+    conflit
+
+[33mcommit 5d56950feb9089414c3d464c0934c0d9d2b8c7b2[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 14:42:15 2019 +0100
+
+    modif myfile
+
+[33mcommit 9bbec7066c63d4ec98992918671eb6b9bda63a76[m
+Author: skelai <48760151+skelai@users.noreply.github.com>
+Date:   Wed Mar 20 14:40:19 2019 +0100
+
+    Update myfile
+    
+    note for self
+
+[33mcommit e4e69c1bb80eeb1ca5d1cf99de0e46354ea3d72d[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 14:32:09 2019 +0100
+
+    test synchro
+
+[33mcommit 621ba9a0c8f46efdd20bab9241aee467230858a5[m
+Author: skelai <48760151+skelai@users.noreply.github.com>
+Date:   Wed Mar 20 14:24:45 2019 +0100
+
+    Update .gitignore
+
+[33mcommit 9634d9968207b946ec8f70d27ed91838e3a31eac[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 12:21:18 2019 +0100
+
+    adding gitignore
+
+[33mcommit b6c00e90c3669e714f8d2b6ad9add4df3dc904b1[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 11:55:12 2019 +0100
+
+    myfile : content modified
+
+[33mcommit bbd011e774c82d61cb750a5db8caf2bff9e81f76[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 11:33:59 2019 +0100
+
+    file renamed : untruc became myfile
+
+[33mcommit 2c835ad3c9b4d5b609e04b59fb7571500f66fe82[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 11:31:05 2019 +0100
+
+    new commit
+
+[33mcommit e45f1d70dbff4935aa356dc66c554f7a4595698b[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 10:29:18 2019 +0100
+
+    encore un fichier
+
+[33mcommit 4d830397eea681db5afc08f4b8e8f26b85cc18c6[m
+Author: Soukaina <skelai@humanbooster.com>
+Date:   Wed Mar 20 10:23:04 2019 +0100
+
+    hola !
