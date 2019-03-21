@@ -1,6 +1,10 @@
 I was here
 This is a new line
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9c125149efc052978a3e262a6f3548824e8e85a6
 Mais...
 
 Test : synchronizing with the remote repository.
+modif modif
